@@ -1,0 +1,2 @@
+Clean House,low
+Pay Bills,high
